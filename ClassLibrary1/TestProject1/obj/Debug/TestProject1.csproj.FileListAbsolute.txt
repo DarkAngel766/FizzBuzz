@@ -1,0 +1,7 @@
+C:\Users\will\documents\visual studio 2010\Projects\ClassLibrary1\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\will\documents\visual studio 2010\Projects\ClassLibrary1\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\will\documents\visual studio 2010\Projects\ClassLibrary1\TestProject1\bin\Debug\ClassLibrary1.dll
+C:\Users\will\documents\visual studio 2010\Projects\ClassLibrary1\TestProject1\bin\Debug\ClassLibrary1.pdb
+C:\Users\will\documents\visual studio 2010\Projects\ClassLibrary1\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\will\documents\visual studio 2010\Projects\ClassLibrary1\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\will\documents\visual studio 2010\Projects\ClassLibrary1\TestProject1\obj\Debug\TestProject1.pdb
